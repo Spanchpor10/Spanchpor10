@@ -75,8 +75,9 @@ I am committed to collaborative innovation through open-source development. My p
 
 ### 📊 My GitHub Stats
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Spanchpor10&show_icons=true&theme=radical&rank_icon=github" alt="sarthak's github stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanchpor10&layout=compact&theme=radical" alt="sarthak's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Spanchpor10&show_icons=true&include_all_commits=true&hide_title=false&count_private=true&theme=radical&hide_rank=false" alt="Sarthak's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spanchpor10&layout=compact&langs_count=10&theme=radical" alt="Sarthak's Top Languages" />
 </p>
